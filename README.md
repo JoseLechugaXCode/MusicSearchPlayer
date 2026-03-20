@@ -1,2 +1,4 @@
 # MusicSearchPlayer
-Just a MusicSearcher and Player
+Apple Music API
+Music Player & lyrics searcher
+:D
